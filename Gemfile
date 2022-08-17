@@ -26,6 +26,8 @@ gem "stimulus-rails"
 
 gem "simple_form", github: "heartcombo/simple_form"
 
+gem "faker"
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
